@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java full stack development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-seven-cyan-98.vercel.app](portfolio1-five-lac.vercel.app)
+- 👨‍💻 All of my projects are available at [https://portfolio1-five-lac.vercel.app](portfolio1-five-lac.vercel.app)
 
 - 📫 How to reach me **akash4517999@gmail.com**
 
